@@ -1,4 +1,4 @@
-# 🚀 LeetTrack (Leet_Revise) - Chrome Extension
+# LeetTrack (Leet_Revise) - Chrome Extension
 
 LeetTrack is a smart Chrome Extension designed to help you set automatic revision reminders for LeetCode problems. If you are preparing for DSA and tend to forget to revise solved questions at regular intervals, this extension utilizes the `chrome.alarms` API to remind you at the exact scheduled time.
 
